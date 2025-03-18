@@ -1,6 +1,6 @@
 # Indian SDG-Aligned Startups Analysis
 
-
+![image alt](https://github.com/pranavgi/Indian-SDG-startups-Dashboard-/blob/main/Screenshot%202025-03-18%20172049.png?raw=true)
 
 # 🌍 Project Overview
 
